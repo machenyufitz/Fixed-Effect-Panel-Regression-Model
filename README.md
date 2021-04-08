@@ -1,6 +1,6 @@
 # Fixed-Effect-Panel-Regression-Model
 
-Fixed Effect Algorithm Design
+Fixed Effect Algorithm Design for San Francisco urban traffic data
 
 The Fixed Effects Regression Model has the following mathematical model:
 Y it = β 1 X (1, it) + …..... + β k X (k,it) + α i + u it
